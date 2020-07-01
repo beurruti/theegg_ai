@@ -1,0 +1,8 @@
+Tras varias semanas pensando y analizando la situación mi primer esquema era el siguiente: 
+
+1. Pido que el usuario meta un número entre 0,0001 y 0,9999 (un input)
+2. Antes de empezar compruebo si ese número es menor a 0 y mayor que 1. Si es así, le pido que vuelva a introducir un número (bucle infinito hasta que el número que se introduce esté en el rango). 
+3. Guardo ese número 
+4. Convierto ese número en decimal. *10000 y 10000
+5. Encuentro el decimal más pequeño (/2, /5,…)  
+6. Le muestro al usuario ese número (print)
